@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react js...
 - 📫 How to reach me anubhavdixit7525@gmail.com...
 - 😄 Pronouns: .he.
-- ⚡ Fun fact: .i m shy..
+- 
 
 <!---
 Anubhav7525/Anubhav7525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
